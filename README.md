@@ -5,4 +5,3 @@ Análisis descriptivo de los homicidios en Colombia entre los años 2003 y 2025 
 **Municipios**: Listado de Municipios 
 **Homicidios**: Listado de homicidios
 
-pr
